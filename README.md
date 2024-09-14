@@ -1,6 +1,6 @@
 ﻿# Auto-Text-Animation
 
-[Check out the project here](https://github.com/omarabuziad/professionlisom)
+[Check out the project here]([https://github.com/omarabuziad/professionlisom](https://debanjan-dev.github.io/Auto-Text-Animation/))
 
 
 
